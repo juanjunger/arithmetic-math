@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "An application to calculate math operations with user input",
   "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
   "author": "Juan Junger",
   "license": "ISC",
   "dependencies": {

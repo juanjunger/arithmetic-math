@@ -1,2 +1,2 @@
 # arithmetic-math
-An application to calculate math operations with user input
+A console application that allows user to calculate basic math operations with selected values and operation input using readline sync.
