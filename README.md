@@ -4,7 +4,7 @@
 
 
 
-![Console](./assets/console.png)
+![Console](./assets/console.PNG)
 
 
 
